@@ -19,3 +19,4 @@ dependencies:
   - r-stringr
   - statsmodels
   - seaborn
+  - urllib3
